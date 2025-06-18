@@ -7,7 +7,6 @@ This is **2D Space Shooter Game**.
   - Player-controlled spaceship with movement and shooting.
   - Waves of enemy ships with varying patterns.
   - Scoring system and game over logic.
-- Ported from Unity to Godot, leveraging the unique features of the **Godot 4 engine**.
 
 ## 🛠️ Technologies Used
 - **Godot 4**: The game engine used for development.
